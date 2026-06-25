@@ -9,4 +9,11 @@ public class App {
         System.out.println("Have a good one!");
         System.out.println("New Line");
     }
+    
+    class Student {
+    	String name;
+    	public Student (String name) {
+    		this.name = name;
+    	}
+    }
 }
